@@ -1,0 +1,40 @@
+body {
+    background-color: greenyellow;
+}
+
+#one_button {
+    vertical-align: top;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    border: 5px;
+    border-radius: 30px;
+    border-color: aqua;
+    color: azure;
+    background: blue;
+}
+#two_button {
+    vertical-align: top;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    border: 5px;
+    border-radius: 30px;
+    border-color: aqua;
+    color: azure;
+    background: blue;
+}
+#three_button {
+    vertical-align: top;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    border: 5px;
+    border-radius: 30px;
+    border-color: aqua;
+    color: azure;
+    background: blue;
+}
